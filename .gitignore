@@ -12,3 +12,4 @@ credentials.yml
 .project
 *.swp
 
+provision/*
