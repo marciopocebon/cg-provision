@@ -102,8 +102,8 @@
   - name: cg-deploy-bosh
     type: git
     source:
-      uri: https://github.com/18F/cg-deploy-bosh
-      branch: master
+      uri: https://github.com/s-matyukevich/cg-deploy-bosh
+      branch: test
   - name: cg-deploy-bosh-credentials
     type: s3
     source:
